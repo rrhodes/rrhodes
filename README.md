@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-Architecture, and implementation of AWS microservices using Python and the [AWS Cloud Development Kit](https://docs.aws.amazon.com/cdk/latest/guide/home.html).
+Architecture and implementation of AWS microservices using Python and the [AWS CDK](https://docs.aws.amazon.com/cdk/latest/guide/home.html).
 
 - 🌱 I’m currently learning ...
 How to architect highly-available, scalable, secure services in the cloud.
