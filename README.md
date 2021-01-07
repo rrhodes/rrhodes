@@ -14,4 +14,4 @@
 
 - 😄 Pronouns: He/Him.
 
-- ⚡ Fun fact: A doctor told me this year I have an underwhelming head.
+- ⚡ Fun fact: A doctor told me I have an underwhelming head.
