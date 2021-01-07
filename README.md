@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ...
-Planning, architecture, and implementation of AWS microservices. These services typically use Python, deployed to AWS with the [AWS Cloud Development Kit](https://docs.aws.amazon.com/cdk/latest/guide/home.html).
+- 🔭 I’m currently working on ...
+Planning, architecture, and implementation of AWS microservices using Python and the [AWS Cloud Development Kit](https://docs.aws.amazon.com/cdk/latest/guide/home.html).
 
 - 🌱 I’m currently learning ...
-How to architect highly-available, scalable, secure services in the cloud. Plenty to learn down this avenue, with security being a priority to me.
+How to architect highly-available, scalable, secure services in the cloud.
 
 - 👯 I’m looking to collaborate on ...
-Anything that catches my eye. Areas of particular interest include cloud development and machine learning.
+Anything that catches my eye. Areas of interest include cloud development and machine learning.
 
 - 🤔 I’m looking for help with ...
 Any open-source contributions I make. Feedback on pull requests would be warmly welcome!
