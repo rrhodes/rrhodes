@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**rrhodes/rrhodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on ...
+Planning, architecture, and implementation of AWS microservices. These services typically use Python, deployed to AWS with the [AWS Cloud Development Kit](https://docs.aws.amazon.com/cdk/latest/guide/home.html).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+How to architect highly-available, scalable, secure services in the cloud. Plenty to learn down this avenue, with security being a priority to me.
+
 - 👯 I’m looking to collaborate on ...
+Anything that catches my eye. Areas of particular interest include cloud development and machine learning.
+
 - 🤔 I’m looking for help with ...
+Any open-source contributions I make. Feedback on pull requests would be warmly welcome!
+
 - 💬 Ask me about ...
+Absolutely anything.
+
 - 📫 How to reach me: ...
+Preferably contact me through [LinkedIn](https://www.linkedin.com/in/rossrhodes/), please.
+
 - 😄 Pronouns: ...
+He/Him
+
 - ⚡ Fun fact: ...
--->
+A doctor told me this year I have an underwhelming head.
