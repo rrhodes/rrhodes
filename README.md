@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning how to architect highly-available, scalable, secure services in the cloud.
 
-- 👯 I’m looking to collaborate on anything that catches my eye. Areas of interest include cloud development and machine learning.
+- 👯 I’m looking to collaborate on anything that catches my eye, particularly in cloud development and machine learning.
 
 - 🤔 I’m looking for help with any open-source contributions I make. Feedback on pull requests would be warmly welcome!
 
