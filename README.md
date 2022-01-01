@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m architecting and implementing AWS microservices using Python, Serverless and TypeScript.
+- 🔭 I’m architecting and implementing AWS microservices using Python, Serverless, and TypeScript.
 
 - 🌱 I’m learning how to lead projects and deliver greater value to customers using software.
 
