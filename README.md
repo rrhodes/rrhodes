@@ -2,9 +2,9 @@
 
 - 🔭 I’m architecting and implementing AWS microservices using Python, Serverless and TypeScript.
 
-- 🌱 I’m learning how to architect highly-available, scalable, and secure services in the cloud.
+- 🌱 I’m learning how to lead projects and deliver greater value to customers using software.
 
-- 👯 I’m looking to collaborate on open-source projects - particularly in cloud development and machine learning.
+- 👯 I’m looking to collaborate on open-source projects - particularly in cloud development or machine learning.
 
 - 🤔 I’m looking for help with any open-source contributions I make. Feedback on pull requests is warmly welcome!
 
@@ -14,4 +14,4 @@
 
 - 😄 Pronouns: He/Him.
 
-- ⚡ Fun fact: An ENT consultant recently told me I have an underwhelming head.
+- ⚡ Fun fact: An ENT consultant told me I have an underwhelming head.
