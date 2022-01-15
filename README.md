@@ -1,17 +1,17 @@
-### Hi there 👋
+### Hello 👋
 
-- 🔭 I’m architecting and implementing AWS microservices using Python, Serverless, and TypeScript.
+- 🔭 I’m working on back-end applications developed using AWS, Python, and TypeScript.
 
-- 🌱 I’m learning how to lead projects and deliver greater value to customers using software.
+- 🌱 I’m learning how to lead larger projects and deliver greater value to customers.
 
-- 👯 I’m looking to collaborate on open-source projects - particularly in cloud development or machine learning.
+- 👯 I’m looking to collaborate on open-source feature requests and bug fixes.
 
-- 🤔 I’m looking for help with any open-source contributions I make. Feedback on pull requests is warmly welcome!
+- 🤔 I’m looking for advice to progress further up the Individual Contributor ladder.
 
-- 💬 Ask me about absolutely anything. Happy to grab a coffee or have a catch-up online.
+- 💬 Ask me about software development in the cloud, blogging, and presentations.
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rossrhodes/), please.
+- 📫 How to reach me: see [Linktree](https://linktr.ee/trrhodes) for contact details.
 
 - 😄 Pronouns: He/Him.
 
-- ⚡ Fun fact: An ENT consultant told me I have an underwhelming head.
+- ⚡ Fun fact: An Otorhinolaryngology consultant told me I have an underwhelming head.
