@@ -12,6 +12,6 @@
 
 - 📫 How to reach me: see [Linktree](https://linktr.ee/trrhodes) for contact details.
 
-- 😄 Pronouns: He/Him.
+- 😄 Pronouns: He / Him.
 
 - ⚡ Fun fact: An Otorhinolaryngology consultant told me I have an underwhelming head.
