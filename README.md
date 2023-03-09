@@ -1,12 +1,12 @@
 ### Hello 👋
 
-- 🔭 I’m developing microservices using AWS, GCP, Node.js, and Python.
+- 🔭 I’m developing micro-services hosted in AWS using serverless technology.
 
-- 🌱 I’m learning how to navigate ambiguity and deliver greater value to customers.
+- 🌱 I’m learning to navigate greater ambiguity when solving complex problems.
 
-- 👯 I’m looking to broaden my cloud knowledge and improve my writing quality.
+- 👯 I’m looking to learn Go or Rust.
 
-- 🤔 I’m looking for advice to progress the Individual Contributor career ladder.
+- 🤔 I’m looking for advice regarding how to climb the IC career ladder.
 
 - 💬 Ask me about software development in the cloud, blogging, and presentations.
 
