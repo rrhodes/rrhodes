@@ -1,14 +1,14 @@
 ### Hello 👋
 
-- 🔭 I’m developing micro-services hosted in AWS using serverless technology.
+- 🔭 I’m giving advice on AWS, Python, and TypeScript best practices.
 
-- 🌱 I’m learning to navigate greater ambiguity when solving complex problems.
+- 🌱 I’m learning the Rust programming language.
 
-- 👯 I’m looking to learn Go or Rust.
+- 👯 I’m looking to learn from Senior IC Engineers.
 
-- 🤔 I’m looking for advice regarding how to climb the IC career ladder.
+- 🤔 I’m looking for advice regarding how to make high impact changes org-wide.
 
-- 💬 Ask me about software development in the cloud, blogging, and presentations.
+- 💬 Ask me about software development, blogging, and presentations.
 
 - 📫 How to reach me: see [Linktree](https://linktr.ee/trrhodes) for contact details.
 
