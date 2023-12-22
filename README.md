@@ -4,11 +4,11 @@
 
 - 🌱 I’m learning the Rust programming language.
 
-- 👯 I’m looking to learn from Senior IC Engineers.
+- 👯 I’m looking to learn from Staff+ Software Engineers.
 
-- 🤔 I’m looking for advice regarding how to make high impact changes org-wide.
+- 🤔 I’m looking for advice about making high impact changes org-wide.
 
-- 💬 Ask me about software development, blogging, and presentations.
+- 💬 Ask me about software development, writing, and presentations.
 
 - 📫 How to reach me: see [Linktree](https://linktr.ee/trrhodes) for contact details.
 
