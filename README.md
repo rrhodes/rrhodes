@@ -1,12 +1,12 @@
 ### Hello 👋
 
-- 🔭 I’m giving advice on AWS, Python, and TypeScript best practices.
+- 🔭 I’m developing cross-account event-driven systems in AWS.
 
 - 🌱 I’m learning the Rust programming language.
 
-- 👯 I’m looking to learn from Staff+ Software Engineers.
+- 👯 I’m looking for mentorship from Staff+ Software Engineers.
 
-- 🤔 I’m looking for advice about making high impact changes org-wide.
+- 🤔 I’m looking for advice on technical leadership and management.
 
 - 💬 Ask me about software development, writing, and presentations.
 
