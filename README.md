@@ -1,8 +1,8 @@
 ### Hello 👋
 
-- 🔭 I’m developing cross-account event-driven systems in AWS.
+- 🔭 I’m developing serverless green energy solutions hosted in AWS.
 
-- 🌱 I’m learning the Rust programming language.
+- 🌱 I’m learning how to optimise MySQL databases.
 
 - 👯 I’m looking for mentorship from Staff+ Software Engineers.
 
