@@ -1,14 +1,12 @@
 ### Hello 👋
 
-- 🔭 I’m developing serverless green energy solutions hosted in AWS.
+- 🔭 I’m developing serverless platforms to manage green energy supply and demand globally.
 
-- 🌱 I’m learning how to optimise MySQL databases.
+- 🌱 I’m learning how to align teams on high priority initiatives for effective delivery.
 
-- 👯 I’m looking for mentorship from Staff+ Software Engineers.
+- 👯 I’m looking for advice and / or mentorship from Staff+ Software Engineers.
 
-- 🤔 I’m looking for advice on technical leadership and management.
-
-- 💬 Ask me about software development, writing, and presentations.
+- 💬 Ask me about software development, technical writing, and technical speaking.
 
 - 📫 How to reach me: see [Linktree](https://linktr.ee/trrhodes) for contact details.
 
