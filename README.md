@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 🔭 I’m developing serverless platforms to manage green energy supply and demand globally.
+- 🔭 I’m working between software teams to manage battery energy storage systems globally.
 
 - 🌱 I’m learning how to align teams on high priority initiatives for effective delivery.
 
